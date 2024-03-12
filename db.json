@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "test",
+      "userImage": "https://daisyui.com/images/stock/photo-1534528741775-53994a69daeb.jpg",
+      "email": "sosa@gmail.com",
+      "password": "sosa1234"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "Facts About Business That Will Help You Success",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/joel-filipe-175776-unsplash-scaled-e1662276870905-875x440.jpg",
+      "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation"
+    },
+    {
+      "id": "2",
+      "title": "Your Light Is About To Stop Being Relevant",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/david-van-dijk-255503-unsplash-875x440.jpg",
+      "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation"
+    },
+    {
+      "id": "3",
+      "title": "10 Ways To Immediately Start Selling Furniture",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/kaizen-nguy-n-1066357-unsplash-875x440.jpg",
+      "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation"
+    },
+    {
+      "id": "4",
+      "title": "What Can You Do About Fashion Right Now",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/thought-catalog-640705-unsplash-875x440.jpg",
+      "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation"
+    },
+    {
+      "id": "5",
+      "title": "5 Easy Ways You Can Turn Future Into Success",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/grant-ritchie-1154815-unsplash-875x440.jpg",
+      "description": "The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation"
+    },
+    {
+      "title": "test7",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/loren-gu-146832-unsplash-875x440.jpg",
+      "description": "sohila",
+      "id": "d388"
+    },
+    {
+      "id": "ef02",
+      "title": "salma",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/scott-webb-266121-unsplash-scaled-e1662301425523-875x440.jpg",
+      "description": "salma"
+    },
+    {
+      "id": "43f3",
+      "title": "sohila",
+      "image": "https://themeger.shop/wordpress/katen/minimal/wp-content/uploads/sites/5/2022/08/grant-ritchie-1154815-unsplash-875x440.jpg",
+      "description": "bbbbb"
+    }
+  ]
+}
